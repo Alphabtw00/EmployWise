@@ -15,7 +15,7 @@ enabling operations like adding, retrieving, updating, and deleting employees, a
 - MongoDB
 
 ### Installation Steps
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone <https://github.com/Alphabtw00/EmployWise>`
 2. Navigate to the project directory: `cd employwise-spring-boot`
 3. Build the project: `mvn clean install`
 4. Run the application: `java -jar target/employwise-0.0.1-SNAPSHOT.jar`
